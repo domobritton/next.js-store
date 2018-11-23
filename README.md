@@ -1,0 +1,1 @@
+* Next.js store utilizing Moltin eCommerce and Semantic UI

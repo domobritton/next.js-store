@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@moltin/sdk": "3.15.2",
+    "next": "7.0.2",
+    "nprogress": "0.2.0",
+    "react": "16.6.3",
+    "react-dom": "16.6.3",
+    "semantic-ui-react": "0.83.0"
+  }
+}
