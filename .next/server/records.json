@@ -1,0 +1,77 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "external \"semantic-ui-react\"": 1,
+      "external \"next/link\"": 2,
+      "external \"@babel/runtime/regenerator\"": 3,
+      "external \"next/head\"": 4,
+      "external \"next/router\"": 5,
+      "external \"nprogress\"": 6,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!lib/moltin.js": 7,
+      "external \"@moltin/sdk\"": 8,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!components/Layout.js 276618c0f170510c7e74a05fbbc5e405": 9,
+      "multi ./pages/cart.js": 10,
+      "multi ./pages/index.js": 11,
+      "multi ./pages/product.js": 12,
+      "multi node_modules/next/dist/pages/_app.js": 13,
+      "node_modules/next/dist/pages/_app.js": 14,
+      "external \"next/app\"": 15,
+      "multi node_modules/next/dist/pages/_error.js": 16,
+      "node_modules/next/dist/pages/_error.js": 17,
+      "external \"next/error\"": 18,
+      "multi node_modules/next/dist/pages/_document.js": 19,
+      "node_modules/next/dist/pages/_document.js": 20,
+      "external \"next/document\"": 21,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/product.js 47605f247917975f23a17fd905aaf1da": 22,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/cart.js 3e351120e67b861d67d19134f6a3e199": 23,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js a71eb4484b00b9309154bf7a438dc090": 24
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23,
+      "24": 24
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/H4g3Z9ghTj2uaTc5isqtU/pages/cart.js": 0,
+      "static/H4g3Z9ghTj2uaTc5isqtU/pages/index.js": 1,
+      "static/H4g3Z9ghTj2uaTc5isqtU/pages/product.js": 2,
+      "static/H4g3Z9ghTj2uaTc5isqtU/pages/_app.js": 3,
+      "static/H4g3Z9ghTj2uaTc5isqtU/pages/_error.js": 4,
+      "static/H4g3Z9ghTj2uaTc5isqtU/pages/_document.js": 5
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}

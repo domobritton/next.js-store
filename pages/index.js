@@ -4,7 +4,7 @@ import ProductList from '../components/ProductList'
 
 const Home = (props) => (
     <Layout title="Home">
-    <ProductList {...props} />
+        <ProductList {...props} />
     </Layout>
 )
 
